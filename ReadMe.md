@@ -50,3 +50,15 @@ $ python mycalc.py
  operator > =
 [4] > 936 / 5 = 187.2
 ```
+
+With 0:
+```
+$ python mycalc.py
+ operand  > 45
+ operator > +
+ operand  > 0
+In the name of God, I disallow the use of 0.
+ operand  > 9
+ operator > =
+[1] > 45 + 9 = 54
+```
