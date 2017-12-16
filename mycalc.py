@@ -34,7 +34,7 @@ def enter_num() -> Operand:
         if any(digit not in string.digits for digit in val):
             print('Not a number!!')
             continue
-        if val == 0:
+        if val == str(0):
             print('In the name of God, I disallow the use of 0.')
             continue
         return int(val)
