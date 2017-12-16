@@ -13,7 +13,8 @@ the University of People.
 ## Sample output:
 
 With the addition operator:
-```$ python mycalc.py
+```
+$ python mycalc.py
  operand  > 10
  operator > +
  operand  > 345
@@ -22,7 +23,8 @@ With the addition operator:
 ```
 
 With the multiplication operator:
-```$ python mycalc.py
+```
+$ python mycalc.py
  operand  > 12
  operator > *
  operand  > 54
@@ -31,7 +33,8 @@ With the multiplication operator:
 ```
 
 With successive operations:
-```$ python mycalc.py
+```
+$ python mycalc.py
  operand  > 16
  operator > -
  operand  > 2
